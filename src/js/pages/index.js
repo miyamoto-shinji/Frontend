@@ -2,6 +2,8 @@ class Index {
   constructor() {
     this.text = 'example';
 
+    $('body').addClass();
+
     this._init();
   }
   _init() {

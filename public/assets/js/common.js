@@ -123,6 +123,8 @@ var Index = function () {
 
     this.text = 'example';
 
+    $('body').addClass();
+
     this._init();
   }
 
